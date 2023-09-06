@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesafioPulseITAPI", "DesafioPulseITAPI\DesafioPulseITAPI.csproj", "{33FA5A81-3024-4DC4-9059-6A6334FCD04F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{33FA5A81-3024-4DC4-9059-6A6334FCD04F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33FA5A81-3024-4DC4-9059-6A6334FCD04F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33FA5A81-3024-4DC4-9059-6A6334FCD04F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33FA5A81-3024-4DC4-9059-6A6334FCD04F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EA5E1B46-3BB9-4692-91BD-3AAE9AD23BDD}
+	EndGlobalSection
+EndGlobal
